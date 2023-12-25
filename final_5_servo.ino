@@ -165,4 +165,6 @@ if (max_prob > 0.5) {
   inference_count += 1;
   if (inference_count >= 5000) inference_count = 0;
   delay(2000); // Delay increased to 2000 milliseconds
-}
+
+
+}// edited 
